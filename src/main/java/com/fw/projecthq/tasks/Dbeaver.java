@@ -9,8 +9,8 @@ public class Dbeaver extends Task {
 //    super(label, commandExecutor);
   }
 //
-//  @Override
-//  public void execute(String password) {
+  @Override
+  public void execute(String password) {
 //    commandExecutor.setCommands("/bin/bash", "-c",
 //        "echo \"" + password + "\" | sudo -S /usr/bin/dpkg -l | grep dbeaver");
 //    String response = commandExecutor.run();
