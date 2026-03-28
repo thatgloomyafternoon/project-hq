@@ -5,7 +5,7 @@ import com.fw.projecthq.CommandExecutor;
 //
 public class Dbeaver extends Task {
 //
-//  public Dbeaver(String label, CommandExecutor commandExecutor) {
+  public Dbeaver(String label, CommandExecutor commandExecutor) {
 //    super(label, commandExecutor);
 //  }
 //
