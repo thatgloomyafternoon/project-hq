@@ -7,7 +7,7 @@ public class Dbeaver extends Task {
 //
   public Dbeaver(String label, CommandExecutor commandExecutor) {
 //    super(label, commandExecutor);
-//  }
+  }
 //
 //  @Override
 //  public void execute(String password) {
