@@ -21,6 +21,6 @@ public class Dbeaver extends Task {
 //      setImage(Constants.IMG_FAILED);
 //    }
 //    repaint();
-//  }
+  }
 //
 //}
